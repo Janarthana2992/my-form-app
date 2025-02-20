@@ -20,6 +20,6 @@ A modern Next.js application for managing user records with a clean UI and Postg
 - **Styling**: Tailwind CSS with custom gradients
 
 ## ScreenShot
-![Next.js Application Sccreenshot](./Screenshot 2025-02-20 100633.png)
+![Next.js Application Sccreenshot](./Screenshot1.png)
 
 
