@@ -19,4 +19,7 @@ A modern Next.js application for managing user records with a clean UI and Postg
 - **ORM**: Prisma
 - **Styling**: Tailwind CSS with custom gradients
 
+## ScreenShot
+![Next.js Application Sccreenshot](./Screenshot 2025-02-20 100633.png)
+
 
